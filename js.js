@@ -1,0 +1,1 @@
+<div class="parallax block_10" style="transform: translateX(-6.6818px);"></div>
